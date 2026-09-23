@@ -87,7 +87,6 @@ body {
   display: none;
   flex-direction: column;
   align-items: flex-start;
-  gap: 20px;
   position: fixed;
   left: 0;
   top: 80px;
@@ -100,6 +99,7 @@ body {
   text-transform: uppercase;
   font-size: 1.2rem;
   color: #29221e;
+  padding: 10px;
 }
 .menu .contact-btn-m {
   padding: 10px;
